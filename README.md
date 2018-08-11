@@ -1,2 +1,2 @@
-# OIT_Project
+# IoT_Project
 Raspberry Pi Projects
