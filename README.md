@@ -1,2 +1,1 @@
-# IoT_Project
-Raspberry Pi Projects
+This is the start of the project
